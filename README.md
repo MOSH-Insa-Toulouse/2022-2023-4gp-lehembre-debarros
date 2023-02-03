@@ -6,6 +6,3 @@
 - [ ] * Parce que c'est notre projet
 - [ ] * Parce que c'est notre projet
 - [ ] * Parce que c'est notre projet
-- [ ] Hello world
-
-bonjour readyyyyy
