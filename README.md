@@ -24,6 +24,15 @@
 
 # 2. Présentation du capteur graphite 
 
+Le capteur est basé sur l'effet tunnel quantique entre les particules de graphite déposées par le crayon. 
+Pour plus d'informations, vous pouvez vous renseigner grâce au lien suivant : 
+
+Dimensions : 
+
+<img width="305" alt="image" src="https://user-images.githubusercontent.com/123983006/233673780-bb326a95-9697-457d-ab55-849565c78948.png">
+
+Utilisation d'un crayon HB pour le grain.
+
 
 
 # 3. Circuit électronique 
