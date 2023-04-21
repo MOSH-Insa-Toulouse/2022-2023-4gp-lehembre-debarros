@@ -35,6 +35,8 @@
 
 # 6. Programme Arduino
 
+Ci-après, le code Arduino utilisé : [Code Arduino](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/blob/07b504035136efd2108f1f7b01446d1b1bee7c57/Code_arduino_Lauriane_Alan.ino)
+
 
 # 7. Banc de test
 
