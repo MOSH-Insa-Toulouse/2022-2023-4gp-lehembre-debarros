@@ -15,4 +15,16 @@ Parce que c'est notre projet
 
 # 1. Etapes de fabrication
 
+- Création du circuit et simulations sous LtSpice
+- Implémentation du circuit sous KiCad et élaboration du PCB 
+- Réalisation du PCB physique 
+- Percage de la plaquette et soudure des composants 
+- Elaboration du code Arduino
+- Création de l'application d'interfacage sous MIT - app inventor
+- Caractérisation du capteur
+
+# 2. Présentation du capteur graphite 
+
+
+
 
