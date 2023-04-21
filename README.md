@@ -16,7 +16,7 @@
 
 - Création du circuit et simulations sous LtSpice
 - Implémentation du circuit sous KiCAD et élaboration du PCB 
-- Réalisation du PCB physique 
+- Fabrication du PCB
 - Percage de la plaquette et soudure des composants 
 - Elaboration du code Arduino
 - Création de l'application d'interfacage sous MIT - app inventor
@@ -69,13 +69,11 @@ Ci-après, le code Arduino utilisé : [Code Arduino](https://github.com/MOSH-Ins
 
 # 8. Banc de test
 
-Pour calibrer notre capteur, nous avons utilisé le banc de test mis à notre disposition. 
-
-<img width="369" alt="image" src="https://user-images.githubusercontent.com/123983006/233672415-9afd55cb-57a2-410e-adde-ea2ca924ee04.png">
+Pour calibrer notre capteur, nous avons utilisé le banc de test mis à notre disposition. Voici ses particularités et 
 
 # 9. Datasheet
 
-La datasheet est disponible en suivant le lien ci-après : [Datasheet](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/blob/970a85952978378579259352fa356e7eba29f6f5/Datasheet%20-%20Capteur.pdf)
+La datasheet est disponible en suivante le lien ci-après : [Datasheet](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/blob/970a85952978378579259352fa356e7eba29f6f5/Datasheet%20-%20Capteur.pdf)
 
 
 
