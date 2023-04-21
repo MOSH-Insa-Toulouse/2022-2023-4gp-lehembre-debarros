@@ -67,6 +67,8 @@ Ci-après, le code Arduino utilisé : [Code Arduino](https://github.com/MOSH-Ins
 
 # 7. Application Android
 
+L'APK est disponible à cette adresse : [APK](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/blob/c0ea48ad6c8dff68e6e4c520c7baa0256ce2a0f2/Capteur_Graphite_Final.apk)
+
 # 8. Banc de test
 
 Pour calibrer notre capteur, nous avons utilisé le banc de test mis à notre disposition. 
