@@ -1,14 +1,12 @@
 # 2022-2023-4gp-lehembre-debarros
 
-Parce que c'est notre projet
-
 ## SOMMAIRE 
 
 1. Etapes de fabrication
 2. Présentation du capteur graphite 
 3. Circuit électronique
 4. Eléments du PCB 
-5. Elaboration du shield PCB
+5. Elaboration du shield sous KiCAD
 6. Programme Arduino
 7. Banc de test
 8. Datasheet 
@@ -16,7 +14,7 @@ Parce que c'est notre projet
 # 1. Etapes de fabrication
 
 - Création du circuit et simulations sous LtSpice
-- Implémentation du circuit sous KiCad et élaboration du PCB 
+- Implémentation du circuit sous KiCAD et élaboration du PCB 
 - Réalisation du PCB physique 
 - Percage de la plaquette et soudure des composants 
 - Elaboration du code Arduino
@@ -24,6 +22,25 @@ Parce que c'est notre projet
 - Caractérisation du capteur
 
 # 2. Présentation du capteur graphite 
+
+
+# 3. Circuit électronique 
+
+
+# 4. Eléments du PCB 
+
+
+# 5. Elaboration du PCB
+
+
+# 6. Programme Arduino
+
+
+# 7. Banc de test
+
+
+# 8. Datasheet
+
 
 
 
