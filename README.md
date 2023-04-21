@@ -2,16 +2,17 @@
 
 Parce que c'est notre projet
 
-SOMMAIRE 
+## SOMMAIRE 
 
 1. Etapes de fabrication
 2. Présentation du capteur graphite 
 3. Circuit électronique
-4. Eléments de notre PCB 
+4. Eléments du PCB 
 5. Elaboration du shield PCB
-6. Banc de test
-7. Datasheet 
+6. Programme Arduino
+7. Banc de test
+8. Datasheet 
 
-## TODO list
+# 1. Etapes de fabrication
 
 
