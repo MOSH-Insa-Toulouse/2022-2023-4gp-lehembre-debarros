@@ -5,7 +5,7 @@
 1. Etapes de fabrication
 2. Présentation du capteur graphite 
 3. Circuit électronique
-4. Eléments du PCB 
+4. Eléments nécessaires au projet
 5. Elaboration du shield sous KiCAD
 6. Programme Arduino
 7. Banc de test
@@ -26,11 +26,27 @@
 
 # 3. Circuit électronique 
 
+Schéma de l'amplificateur de signal :
+ 
+![image](https://user-images.githubusercontent.com/123983006/233670098-0d6b56d7-fcdb-4a46-a134-9d60f6946954.png)
 
-# 4. Eléments du PCB 
+Modules supplémentaires et leur connexions : 
 
+![image](https://user-images.githubusercontent.com/123983006/233670651-80eaf7b7-4b44-4b1c-9065-9e1a6c9549bc.png)
+
+
+# 4. Eléments nécessaires au projet 
+
+-	Arduino Uno
+-	Module Bluetooth HC05
+-	Amplificateur LTC1050 
+-	I2C Ecran OLED Joy-it SBC-OLED01
+-	Encodeur rotatoire avec boutton poussoir (Joy-it KY-040) 
+-	Spectrasymbol 005 21 Flex Sensor
+-	MCP41050 SPI Potentiomètre Digital 
 
 # 5. Elaboration du PCB
+
 
 
 # 6. Programme Arduino
@@ -40,6 +56,7 @@ Ci-après, le code Arduino utilisé : [Code Arduino](https://github.com/MOSH-Ins
 
 # 7. Banc de test
 
+Pour calibrer notre capteur, nous avons utilisé le banc de test mis à notre disposition. Voici ses particularités et 
 
 # 8. Datasheet
 
