@@ -41,7 +41,7 @@
 
 # 8. Datasheet
 
-La datasheet est disponible en suivante le lien ci-après : [Datasheet] (lien)
+La datasheet est disponible en suivante le lien ci-après : [Datasheet](Datasheet - Capteur.pdf)
 
 
 
