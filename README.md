@@ -69,7 +69,9 @@ Ci-après, le code Arduino utilisé : [Code Arduino](https://github.com/MOSH-Ins
 
 # 8. Banc de test
 
-Pour calibrer notre capteur, nous avons utilisé le banc de test mis à notre disposition. Voici ses particularités et 
+Pour calibrer notre capteur, nous avons utilisé le banc de test mis à notre disposition. 
+
+<img width="307" alt="image" src="https://user-images.githubusercontent.com/123983006/233672885-3f3f39ab-638e-4f1a-a48f-ac6c1df0d200.png">
 
 # 9. Datasheet
 
