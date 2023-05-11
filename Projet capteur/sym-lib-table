@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Bibliotheque_Symbole_Capteur_Graphite")(type "KiCad")(uri "${KIPRJMOD}/Bibliotheque_Symbole_Capteur_Graphite.kicad_sym")(options "")(descr ""))
+  (lib (name "LT1050")(type "KiCad")(uri "U:/4A GP/MOSH/LT1050.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Arduino_MountingHole")(type "KiCad")(uri "${KICAD7_TEMPLATE_DIR}/Arduino_Mega/Arduino_MountingHole.pretty")(options "")(descr ""))
+  (lib (name "Empreintes projet capteur")(type "KiCad")(uri "${KIPRJMOD}/Empreintes projet capteur.pretty")(options "")(descr ""))
+  (lib (name "Biblio_bluetooth")(type "KiCad")(uri "${KIPRJMOD}/Biblio_bluetooth.pretty")(options "")(descr ""))
+  (lib (name "Empreinte OLED")(type "KiCad")(uri "${KIPRJMOD}/Empreinte OLED.pretty")(options "")(descr ""))
+  (lib (name "EMPREINTE ROTATOIRE")(type "KiCad")(uri "${KIPRJMOD}/EMPREINTE ROTATOIRE.pretty")(options "")(descr ""))
+  (lib (name "Empreinte_Capteur")(type "KiCad")(uri "${KIPRJMOD}/Empreinte_Capteur.pretty")(options "")(descr ""))
+)
