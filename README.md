@@ -37,7 +37,7 @@ Utilisation d'un crayon HB pour le grain.
 # 3. Simulations sous LtSpice
 
 ![image](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/assets/123983006/37055e73-0361-40ae-8ce9-98f88d7cde84)
-𝑅_𝐶=((𝑅_3+𝑅_2 ) 𝑅_1 𝑉_𝐶𝐶)/(𝑅_2 𝑉_𝐴𝐷𝐶 )−𝑅_5−𝑅_1![image](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/assets/123983006/94360aaf-e978-45fe-9745-6de659d58783)
+𝑅_𝐶=((𝑅_3+𝑅_2 ) 𝑅_1 𝑉_𝐶𝐶)/(𝑅_2 𝑉_𝐴𝐷𝐶 )−𝑅_5−𝑅_1
 
 Etude et dimensionnement du gain et des capacités afin d’obtenir un signal exploitable en simulant le circuit
 
@@ -93,7 +93,7 @@ Pour calibrer notre capteur, nous avons utilisé le banc de test mis à notre di
 Nous avons ainsi obtenu les variations relatives suivantes en tension et en compression : 
 <img width="404" alt="image" src="https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/assets/123983006/24f43f09-9aa6-4fed-8fac-2e13231a1648"> <img width="403" alt="image" src="https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/assets/123983006/742519d9-3b41-48de-ba39-d683817fa632">
 
-Notre capteur dispose ainsi d'une sensibilité de 0,675 GΩ/%.
+Notre capteur dispose ainsi d'une sensibilité de 0,675 GΩ/% en compression et 0,2GΩ/% en tension.
 
 Cette sensibilité correspond au coefficient de la pente de la variation relative par rapport à la déformation. 
 
