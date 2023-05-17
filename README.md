@@ -107,6 +107,9 @@ La déformation se calcule à l'aide de la formule suivante : ɛ = e/(2.R).
 - e : épaisseur du papier utilisé (0,16mm ici)
 - R : rayon de la courbe
 
+These values are for comparative use only to get orders of magnitude, they are very unstable until the sensor is stabilized in a specialized housing. 
+
+
 # 10. Datasheet
 
 La datasheet est disponible en suivante le lien ci-après : [Datasheet](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/blob/970a85952978378579259352fa356e7eba29f6f5/Datasheet%20-%20Capteur.pdf)
