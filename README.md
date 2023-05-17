@@ -103,8 +103,9 @@ Notre capteur dispose ainsi d'une sensibilité de 0,675 GΩ/% en compression et 
 Cette sensibilité correspond au coefficient de la pente de la variation relative par rapport à la déformation. 
 La déformation se calcule à l'aide de la formule suivante : ɛ = e/(2.R).
 
-Avec ɛ la déformation, e l'épaisseur du papier utilisé et R le rayon de la courbe. 
-Dans notre cas, e = 0,16mm. 
+- ɛ : déformation
+- e : épaisseur du papier utilisé (0,16mm ici)
+- R : rayon de la courbe
 
 # 10. Datasheet
 
