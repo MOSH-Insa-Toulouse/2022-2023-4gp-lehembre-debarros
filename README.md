@@ -96,6 +96,10 @@ Nous avons ainsi obtenu les variations relatives suivantes en tension et en comp
 Notre capteur dispose ainsi d'une sensibilité de 0,675 GΩ/% en compression et 0,2GΩ/% en tension.
 
 Cette sensibilité correspond au coefficient de la pente de la variation relative par rapport à la déformation. 
+La déformation se calcule à l'aide de la formule suivante : 
+![image](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/assets/123983006/510dfadf-7ff9-4c82-80cb-fb1e97add056)
+
+Avec e l'épaisseur du papier utilisé et R le rayon de la courbe. Dans notre cas, e = 0,16mm. 
 
 # 10. Datasheet
 
