@@ -36,10 +36,12 @@ Utilisation d'un crayon HB pour le grain.
 
 # 3. Simulations sous LtSpice
 
-![image](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/assets/123983006/37055e73-0361-40ae-8ce9-98f88d7cde84)
-𝑅_𝐶=((𝑅_3+𝑅_2 ) 𝑅_1 𝑉_𝐶𝐶)/(𝑅_2 𝑉_𝐴𝐷𝐶 )−𝑅_5−𝑅_1
+Etude et dimensionnement du gain et des capacités afin d’obtenir un signal exploitable en simulant le circuit : 
 
-Etude et dimensionnement du gain et des capacités afin d’obtenir un signal exploitable en simulant le circuit
+![image](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/assets/123983006/37055e73-0361-40ae-8ce9-98f88d7cde84)
+
+La résistance du capteur est calculé grâce à la formule suivante : 𝑅_𝐶=((𝑅_3+𝑅_2) 𝑅_1 𝑉_𝐶𝐶)/(𝑅_2 𝑉_𝐴𝐷𝐶)−𝑅_5−𝑅_1
+
 
 # 4. Circuit électronique 
 
@@ -84,6 +86,9 @@ Ci-après, le code Arduino utilisé : [Code Arduino](https://github.com/MOSH-Ins
 
 L'APK est disponible à cette adresse : [APK](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/blob/c0ea48ad6c8dff68e6e4c520c7baa0256ce2a0f2/Capteur_Graphite_Final.apk)
 
+<img width="440" alt="image" src="https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/assets/123983006/fc4c9971-4117-48ae-8137-d8b95bd98816">
+
+
 # 9. Banc de test
 
 Pour calibrer notre capteur, nous avons utilisé le banc de test mis à notre disposition. 
@@ -96,10 +101,10 @@ Nous avons ainsi obtenu les variations relatives suivantes en tension et en comp
 Notre capteur dispose ainsi d'une sensibilité de 0,675 GΩ/% en compression et 0,2GΩ/% en tension.
 
 Cette sensibilité correspond au coefficient de la pente de la variation relative par rapport à la déformation. 
-La déformation se calcule à l'aide de la formule suivante : 
-![image](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/assets/123983006/510dfadf-7ff9-4c82-80cb-fb1e97add056)
+La déformation se calcule à l'aide de la formule suivante : ɛ = e/(2.R).
 
-Avec e l'épaisseur du papier utilisé et R le rayon de la courbe. Dans notre cas, e = 0,16mm. 
+Avec ɛ la déformation, e l'épaisseur du papier utilisé et R le rayon de la courbe. 
+Dans notre cas, e = 0,16mm. 
 
 # 10. Datasheet
 
