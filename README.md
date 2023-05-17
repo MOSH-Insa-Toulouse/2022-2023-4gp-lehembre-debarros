@@ -37,10 +37,9 @@ Utilisation d'un crayon HB pour le grain.
 # 3. Simulations sous LtSpice
 
 ![image](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/assets/123983006/37055e73-0361-40ae-8ce9-98f88d7cde84)
-𝑅_𝐶=((𝑅_3+𝑅_2 ) 𝑅_1 𝑉_𝐶𝐶)/(𝑅_2 𝑉_𝐴𝐷𝐶 )−𝑅_5−𝑅_1
-![image](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/assets/123983006/31707cbc-8b73-4554-908e-42dfc49643f5)
+[image](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/assets/123983006/0fd46c97-be1a-412c-9f88-d86e77dd0654)
+
 Etude et dimensionnement du gain et des capacités afin d’obtenir un signal exploitable en simulant le circuit
-![image](https://github.com/MOSH-Insa-Toulouse/2022-2023-4gp-lehembre-debarros/assets/123983006/4f0734fc-daa0-4890-bea3-3f4c6d1f8f07)
 
 # 4. Circuit électronique 
 
